@@ -1,0 +1,20 @@
+#+OPTIONS: reveal_title_slide:nil H:2 num:nil toc:nil \n:nil @:t ::t |:t -:t f:t *:t <:t reveal_single_file:t
+#+REVEAL-SLIDE-NUMBER: t
+#+REVEAL_TITLE_SLIDE:
+#+REVEAL_EXTRA_OPTIONS: navigationMode:'linear'
+#+HTML_HEAD: <style>.reveal { font-size: 200%; }</style>
+* Review
+  - You must decide which job offers to accept.
+  - You must decide which of your current jobs to work on.
+  - You are paid for completed jobs, and penalized for ones you fail to complete.
+  - Some jobs will be better than others, so you will have to decide whether an offered job is worth accepting.
+* Second Day
+  - Payments today will be more sensitive to your performance
+  - Each period, you lose 18 cents (think of this as costs to keep the business running).
+  - But, we will multiply your final earnings by 4x.
+  - This table shows how much you will make if you make the same decisions as you did in Day 1.
+| Day 1 Earnings | After losses | Day 2 Earnings |
+|----------------+--------------+----------------|
+| $19            | $1           | $4             |
+| $24            | $6           | $24            |
+| $29            | $11          | $44            |
