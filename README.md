@@ -2,7 +2,7 @@
 
 When cloning, be sure to get the reveal.js submodule
 ```git clone --recurse-submodules```
-# or if already cloned
+or if already cloned
 ```git submodule update --init --recursive```
 
 get python setup
@@ -21,5 +21,6 @@ cd software
 otree devserver
 ```
 
-navigate to `localhost:8000`
-
+1) navigate to `localhost:8000`
+2) click `inv_experiment`
+3) click on one of the Session-wide links

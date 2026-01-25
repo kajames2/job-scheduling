@@ -13,15 +13,15 @@ SESSION_CONFIGS = [
 #         initial_date = datetime.strftime(datetime.now(), "%Y-%m-%d"), 
 #         initial_hour = datetime.strftime(datetime.now() +timedelta(hours = 0) +timedelta(seconds = 30), "%H:%M:%S"),
          max_rounds = 100,
-         round_length = 45,
+         round_length = 36,
          parts = 10,
          workers = 10,
          late_penalty = 0.15,
          fail_penalty = 0.2,
          allow_submit = True,
          accumulate_time = True,
-         worker_pay = 0,
-         pay_scale_factor = 1
+         worker_pay = 72,
+         pay_scale_factor = 4
      ),
 ]
 ROOMS = [
