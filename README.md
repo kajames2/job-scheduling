@@ -13,7 +13,7 @@ pip3 install -r software/requirements.txt
 ```
 
 # Viewing the experiment instructions
-In your browser open `instructions/instructions_base.html`
+In your browser open the file: `instructions/instructions_base.html`
 
 # To run the experiment
 ```
@@ -21,6 +21,6 @@ cd software
 otree devserver
 ```
 
-1) navigate to `localhost:8000`
+1) navigate browser to: `localhost:8000`
 2) click `inv_experiment`
-3) click on one of the Session-wide links
+3) click on the "Session-wide" link
