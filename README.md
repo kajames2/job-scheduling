@@ -15,6 +15,8 @@ pip3 install -r software/requirements.txt
 # Viewing the experiment instructions
 In your browser open the file: `instructions/instructions_base.html`
 
+In addition to the above instructions, know that in the particular experiment you'll be doing, you will lose $0.72 each day.  This is the unavoidable fixed cost of keeping the business running.  It will always be $0.72/day, regardless of how many workers you have working.
+
 # To run the experiment
 ```
 cd software
@@ -25,9 +27,7 @@ otree devserver
 2) click `inv_experiment`
 3) click on the "Session-wide" link
 
-# Extra Instructions when Playing
-
-You lose $0.72/day.  This is the unavoidable fixed cost of keeping the business running.  It will always be $0.72 each day, regardless of how many workers you have working.
+# Final Score Evaluations
 
 | Earnings | Evaluation | Note |
 |----------|------------|------|
